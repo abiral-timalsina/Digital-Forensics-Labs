@@ -19,11 +19,26 @@ You are the examiner. Find out what happened and who is most likely responsible.
 
 | | |
 |---|---|
-| **File** | `case01.img` (download link coming soon) |
-| **Size** | 512 MB |
-| **SHA-256** | _to be added when the evidence is published_ |
+| **Download** | [`case01.zip`](https://github.com/abiral-timalsina/Digital-Forensics-Labs/releases/download/lab0-v1/case01.zip) (unzips to `case01.img`) |
+| **Size** | 727 KB zipped, 512 MB unzipped |
+| **SHA-256 of the zip** | `3d224703b088f40e9f555e7e5ae8918f2ecbe91d6caf553a842efc2b54176fa5` |
+| **SHA-256 of the image** | `1fc14dfb1ddf5ca96f60103a28f94df3014a33a9e460abf98f9dc97da831dcae` |
 
-Check the fingerprint before you start, and work on a copy.
+Check both fingerprints before you start, and work on a copy of the image.
+
+Windows (PowerShell):
+
+```powershell
+Get-FileHash case01.zip -Algorithm SHA256
+```
+
+Linux:
+
+```bash
+sha256sum case01.zip
+unzip case01.zip
+sha256sum case01.img
+```
 
 ## Questions
 
