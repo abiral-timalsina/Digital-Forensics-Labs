@@ -15,7 +15,8 @@ CTF-styled digital forensics labs built around **police cyber cell case files**.
 5. [Flag format and submission](#flag-format-and-submission)
 6. [Roadmap](#roadmap)
 7. [Credits](#credits)
-8. [Author](#author)
+8. [License](#license)
+9. [Author](#author)
 
 ---
 
@@ -72,6 +73,10 @@ Submission details will be added here (email or form). Each lab README says how 
 ## Credits
 
 The layout of this repository is inspired by [MemLabs](https://github.com/stuxnet999/MemLabs) by P. Abhiram Kumar (Team bi0s), a great set of memory forensics CTF labs. The cases, evidence and text here are original.
+
+## License
+
+© 2026 Abiral Timalsina. The labs, case stories and write-ups are licensed under [CC BY-NC-SA 4.0](LICENSE). You may share and adapt them for non-commercial use, as long as you give credit and share your changes under the same license.
 
 ## Author
 
