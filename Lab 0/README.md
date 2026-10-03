@@ -36,9 +36,9 @@ Check the fingerprint before you start, and work on a copy.
 7. Find the **flag**. Format: `FLAG{...}`
 8. In 4 to 6 lines, say **who is most likely responsible**, give **at least two pieces of evidence**, and state **one thing you cannot prove** from this drive alone.
 
-## Hints
+## Walkthrough
 
-There are no hints in this lab. If you get stuck, the walkthrough will be published here later.
+Try the lab on your own first. If you get stuck, the full walkthrough is here (**contains spoilers**): [walkthrough](walkthrough/README.md)
 
 ## Submission
 
