@@ -31,7 +31,8 @@ You can solve them on **Windows, Ubuntu or Kali Linux**. The evidence is a norma
 | Directory | Case | Evidence | Level |
 |---|---|---|---|
 | [Lab 0](Lab%200) | The Leaked Paper | Damaged USB drive (disk image) | Sample, Easy to Medium |
-| Lab 1 | Coming soon | | |
+| [Lab 1](Lab%201) | The Fake Wallet Link | Network capture (PCAP) | Easy to Medium |
+| Lab 2 | Coming soon | | |
 
 Lab 0 is the **sample lab**. Its full walkthrough will be published so you can see how an investigation is approached. Later labs will not include solutions in this repository.
 
